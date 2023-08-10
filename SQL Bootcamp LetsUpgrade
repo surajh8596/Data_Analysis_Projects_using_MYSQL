@@ -1,0 +1,14 @@
+QUESTION:1 Calculate the average price of products sold.
+product_id |  price
+-----------|----------
+1          | 10.00
+2          | 15.50
+3          | 8.75
+4          | 20.25
+5          | 12.00
+
+I am considering table name as "PRODUCTS".
+
+ANSWER: SELECT AVG(PRICE) FROM PRODUCTS;
+---------------------------------------------------------------------------------------------------------------
+QUESTION:2 
