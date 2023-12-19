@@ -65,7 +65,7 @@ This analysis aims to uncover the different customers segments, purchase trends 
 1. How many unique customer types does the data have?
 2. How many unique payment methods does the data have?
 3. What is the most common customer type?
-4. Which customer type buys the most?
+4. Which customer type buys the most quantities?
 5. What is the gender of most of the customers?
 6. What is the gender distribution per branch?
 7. Which time of the day do customers give most ratings?
@@ -76,8 +76,7 @@ This analysis aims to uncover the different customers segments, purchase trends 
 ### Revenue And Profit Calculations
 - COGS = unitsPrice * quantity <br>
 - VAT = 5% * COGS `VAT` is added to the `COGS` and this is what is billed to the customer.
-- $ total(gross_sales) = VAT + COGS $
-- $ grossProfit(grossIncome) = total(gross_sales) - COGS $
-
+- total(gross_sales) = VAT + COGS
+- grossProfit(grossIncome) = total(gross_sales) - COGS
 - Gross Margin is gross profit expressed in percentage of the total(gross profit/revenue)
-- $ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} $
+- \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}}
