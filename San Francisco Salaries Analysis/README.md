@@ -31,4 +31,24 @@ Divide analysis in 2 different parts
 2. Solving Business questions
 
 ### 1. Basic Exploration about Dataset
-- a. 
+- a. Look at entire data
+- b. Check total number of employees in table
+- c. Check unique employees name (Duplicate entry)
+- d. How many total job title does table have
+- e. What is minimum, maximum and average base pay.
+- f. What is maximum overtime pay
+- g. What is the maximum benifit amount an employee recieving
+- h. What is minimum, maximum and average total pay.
+
+### 2. Business Questions
+- A. Disply top 10 job tite who's average overtime pay is greater than 50000.
+- B. Display top 10 employees who occuring in this table multiple times.
+- C. WHich year has highest total pay ?
+- D. What is the top 5 job title's with highest employees.
+- E. Display the Records for job title 'MAYOR'
+- F. Show the top 10 highest paid employees.
+- G. Display the average of BasePay, OvertimePay, and OtherPay for each employee.
+- H. Show all employees who are 'MANAGER' mentioned in their job title.
+- I. Show all JOB TITLES with a total pay between 50,000 and 75,000.
+- J. Show all employees with a total pay benefits value  between 125,000 and 150,000 and a job title containing the word "Director".
+- H. Drop unneccesary column like 'notes'
