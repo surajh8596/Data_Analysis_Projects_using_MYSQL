@@ -25,4 +25,10 @@ To help get you started, here are some data exploration ideas:
 12. **Agency** - Agency city. This columns contains only one city 'San Francisco'
 13. **Status** - FT-Full time, PT-Part time
 
+## Salaries Analysis
+Divide analysis in 2 different parts
+1. Basic Exploration of Data
+2. Solving Business questions
 
+### 1. Basic Exploration about Dataset
+- a. 
