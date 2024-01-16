@@ -52,3 +52,4 @@ Divide analysis in 2 different parts
 - I. Show all JOB TITLES with a total pay between 50,000 and 75,000.
 - J. Show all employees with a total pay benefits value  between 125,000 and 150,000 and a job title containing the word "Director".
 - H. Drop unneccesary column like 'notes'
+- I. 
