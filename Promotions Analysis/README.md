@@ -7,8 +7,10 @@
  ## Recommended Insights
  ### Store Performance Analysis
  1. WHich are the top 10 stores in terms of increament Revenue(IR) geerated from the promotions?
- 2. Which are the bottom 10 stores when it comes to increament sold Units(ISU) during the promotional period?
- 3. How does the performance of stores vary by city? Are there any common characterstics among the top-performing stores that could be leveraged across other stores?
+ 2. Which are the bottom 10 stores in terms of increament Revenue(IR) generated from the promotions?
+ 3. Which are the TOP 10 stores when it comes to increament sold Units(ISU) during the promotional period?
+ 4. Which are the bottom 10 stores when it comes to increament sold Units(ISU) during the promotional period?
+ 5. How does the performance of stores vary by city? Are there any common characterstics among the top-performing stores that could be leveraged across other stores?
 
 ### Promotion Type Analysis
 1. WHat are the top 2 promotion types that resulted in the highest increament revenue?
